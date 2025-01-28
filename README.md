@@ -1,1 +1,1 @@
-install on your android phone. the app should work well, although the firebase trial has expired so birthdays wont save anymore.
+This is a simple Android application designed to help users keep track of birthdays. While the app is fully functional for tracking and viewing birthdays, please note that due to the expiration of the Firebase trial, birthday entries will no longer be saved. This limitation is temporary and will be resolved in future updates.
